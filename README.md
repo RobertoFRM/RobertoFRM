@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RobertoFRM
+- 👀 I’m interested in learning data science and AI, I'm a student.
+- 🌱 I’m currently learning fundamentals of Python, JS, JAVA, HTML and react.
+- 💞️ I’m looking to collaborate on (not yet)
+- 📫 How to reach me (not yet)
